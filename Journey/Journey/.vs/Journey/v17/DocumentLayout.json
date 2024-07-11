@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\users\\alx19\\documents\\projetos\\nlw\\csharp\\journey\\journey\\src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\register\\registertripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\users\\alx19\\documents\\projetos\\nlw\\csharp\\journey\\journey\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|c:\\users\\alx19\\documents\\projetos\\nlw\\csharp\\journey\\journey\\src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C6E5A52-0280-4E25-856E-91378E8DF7D1}|src\\Journey.Communication\\Journey.Communication.csproj|solutionrelative:src\\journey.communication\\requests\\requestregistertripjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAcwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T17:58:23.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterTripUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ToolTip": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\Register\\RegisterTripUseCase.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwBsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T14:57:07.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RequestRegisterTripJson.cs",
+              "DocumentMoniker": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ToolTip": "C:\\Users\\alx19\\Documents\\Projetos\\NLW\\csharp\\Journey\\Journey\\src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "RelativeToolTip": "src\\Journey.Communication\\Requests\\RequestRegisterTripJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T13:32:02.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
